@@ -1,13 +1,12 @@
 ---
-title: How to Install and use WhatATheme?
+title: Cyber Sécurité
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+post-image: assets/images/pc, cyber.png
+description: Automatisation de recherche de Vulnérabiltés
 tags:
-- how to
-- setup
-- theme
+- Cyber
+- entreprise
+
 ---
 
 # What is WhatATheme?
