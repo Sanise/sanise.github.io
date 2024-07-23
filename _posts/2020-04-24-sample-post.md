@@ -1,5 +1,5 @@
 ---
-title: Sample Post
+title: JumpX
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"(https://raw.githubusercontent.com/Sanise/sanise.github.io/master/assets/images/image.png)
 description: JumpX, un réseau social interne à l'entreprise
