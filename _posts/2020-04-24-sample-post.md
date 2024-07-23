@@ -1,7 +1,7 @@
 ---
 title: JumpX
 layout: post
-post-image: https://github.com/Sanise/sanise.github.io/blob/master/assets/images/image.png
+post-image: assets/images/image.png
 description: JumpX, un réseau social interne à l'entreprise
 tags:
 - projet
