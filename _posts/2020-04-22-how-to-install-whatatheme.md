@@ -1,7 +1,7 @@
 ---
 title: Cyber Sécurité
 layout: post
-post-image: assets/images/pc, cyber.png
+post-image: assets/images/pc-cyber.png
 description: Automatisation de recherche de Vulnérabiltés
 tags:
 - Cyber
