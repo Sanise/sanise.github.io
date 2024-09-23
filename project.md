@@ -2,6 +2,11 @@
 layout: project
 title: Projets en cours
 ---
+---
+layout: project
+title: Projets en entreprise
+---
+
 
 <h1>{{ page.title }}</h1>
 
