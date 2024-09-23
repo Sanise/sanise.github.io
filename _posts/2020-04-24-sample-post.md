@@ -1,6 +1,11 @@
 ---
-title: 3ème veille cyber
+title: 3ème veille Cyber Sécurité
 layout: post
-post-image: assets/images/image.png
-description: JumpX, un réseau social interne à l'entreprise
+post-image: assets/images/pc-cyber.png
+description: Automatisation de recherche de Vulnérabiltés
+tags:
+- Cyber
+- entreprise
+
+---
 
