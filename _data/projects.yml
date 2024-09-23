@@ -2,11 +2,8 @@
   image: assets/images/pc-cyber.png
   link:
   description: Automatisation de recherche de Vulnérabiltés
---- 
 
 # Projet d'automatisation de recherche de vulnérabiltés
->description 
-
 ## Qu'est-ce qu'une vulnérabilité ?
 ## Comment le programme fonctionne ?
 
