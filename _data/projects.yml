@@ -1,15 +1,9 @@
-
-# Projet d'automatisation de recherche de vulnérabiltés
-## Qu'est-ce qu'une vulnérabilité ?
-## Comment le programme fonctionne ?
-
 - name: JumpX
-  link:
+  link: /projects/jumpx.html
   image: assets/images/image.png
   description: JumpX, un réseau social interne à l'entreprise
   
 - name: La boite à idées
-  link:
-  image:  assets/images/pc.jpg
+  link: /projects/boite-a-idees.html
+  image: assets/images/pc.jpg
   description: description
-  
