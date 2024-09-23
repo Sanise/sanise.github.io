@@ -1,7 +1,10 @@
 ---
-title: 1ere veille sur la cyber
+title: 1ere veille Cyber Sécurité
 layout: post
-post-image: assets/images/pc.jpg
-description: description
+post-image: assets/images/pc-cyber.png
+description: Automatisation de recherche de Vulnérabiltés
 tags:
--
+- Cyber
+- entreprise
+
+---
