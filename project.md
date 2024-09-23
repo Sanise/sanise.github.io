@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Veille
+title: Projets en cours
 ---
 
