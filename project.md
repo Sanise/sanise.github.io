@@ -3,7 +3,7 @@ layout: project
 title: Projets en cours
 ---
 ---
-layout: project
+layout: project2
 title: Projets en entreprise
 ---
 
