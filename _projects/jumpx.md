@@ -1,7 +1,7 @@
 ---
-title: 1ere veille Cyber Sécurité
+title: JumpX
 layout: post
-post-image: assets/images/pc-cyber.png
+post-image: assets/images/image.png
 description: Automatisation de recherche de Vulnérabiltés
 tags:
 - Cyber
