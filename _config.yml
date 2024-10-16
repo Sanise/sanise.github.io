@@ -68,6 +68,7 @@ defaults:
   -
     scope:
       type: 'projects'
+      path: 'projects'
     values:
       layout: post
       post-image: ""
