@@ -1,9 +1,9 @@
 - name: JumpX
-  link: /projects/jumpx.html
-  image: assets/images/image.png
+  link: /projects/jumpx
+  image: /assets/images/image.png
   description: JumpX, un réseau social interne à l'entreprise
   
 - name: La boite à idées
-  link: /projects/boite-a-idees.html
-  image: assets/images/pc.jpg
+  link: /projects/boite-a-idees
+  image: /assets/images/pc.jpg
   description: description
