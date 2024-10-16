@@ -67,6 +67,15 @@ defaults:
         - ""
   -
     scope:
+      type: 'projects'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""  
+  -
+    scope:
       type: 'pages'
     values:
       layout: page
